@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am pursuing B.E. Electronics and Instrumentation Engineering at Sri Ramakrishna Engineering College, Coimbatore, with a CGPA of 7.79.
+I completed my B.E. Electronics and Instrumentation Engineering at Sri Ramakrishna Engineering College, Coimbatore, with a CGPA of 7.79.
 
 I am passionate about developing innovative solutions using sensors, embedded systems, automation, IoT and Industry 4.0 technologies. I enjoy learning new technologies and applying them to solve real-world challenges.
 
